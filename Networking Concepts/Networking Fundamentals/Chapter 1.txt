@@ -1,0 +1,48 @@
+world global internet traffic?
+higher and lower tier isps
+
+ip :
+internet protocols are concerned about the format of packets that are sent and received among routes and end systems.
+
+Internet :
+infrastructure that provides services to applications.
+
+End Systems attached to the Internet provides an API - that specifies how an End System asking the Internet Infrastructure to deliver the data to another End Systems
+
+Suppose
+Alice wants to send a letter to Bob using the postal service. Alice, of course,
+can’t just write the letter (the data) and drop the letter out her window. Instead,
+the postal service requires that Alice put the letter in an envelope; write Bob’s
+full name, address, and zip code in the center of the envelope; seal the envelope;
+put a stamp in the upper-right-hand corner of the envelope; and finally, drop the
+envelope into an official postal service mailbox. Thus, the postal service has its
+own “postal service API,” or set of rules, that Alice must follow to have the
+postal service deliver her letter to Bob. In a similar manner, the Internet has an
+API that the program sending data must follow to have the Internet deliver the
+data to the program that will receive the data.
+The postal service, of course, provides more than one service to its customers.
+It provides express delivery, reception confirmation, ordinary use, and many more
+services. In a similar manner, the Internet provides multiple services to its applications.
+When you develop an Internet application, you too must choose one of the
+Internet’s services for your application
+
+digital subscriber line -dsl
+
+Propagating ElectroMagnetic Waves or Optical Pulses across a physical Medium
+
+Twisted Pair - the wires are twisted to ignore the electrical interference from similar pair close by. 
+
+Queying Delay - Packet Loss
+
+Trace-Route Program
+
+end to end connection
+
+Frequency Divide Multiplexer - FDM
+Time Divide Multiplexer - TDM
+
+The amount of data that can be transferred per second - throughput
+nodal processing delay, queue delay, transmission delay, propagation delay == total nodal delay
+
+Network Layer ?
+Link Layer ?ew
