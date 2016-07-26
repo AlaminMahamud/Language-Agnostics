@@ -1,0 +1,6 @@
+G:\____Organized____\Languages Agnostics\Design Pattern\Builder Pattern\Builder Pattern\bin\Debug\Builder Pattern.exe.config
+G:\____Organized____\Languages Agnostics\Design Pattern\Builder Pattern\Builder Pattern\bin\Debug\Builder Pattern.exe
+G:\____Organized____\Languages Agnostics\Design Pattern\Builder Pattern\Builder Pattern\bin\Debug\Builder Pattern.pdb
+G:\____Organized____\Languages Agnostics\Design Pattern\Builder Pattern\Builder Pattern\obj\Debug\Builder Pattern.csprojResolveAssemblyReference.cache
+G:\____Organized____\Languages Agnostics\Design Pattern\Builder Pattern\Builder Pattern\obj\Debug\Builder Pattern.exe
+G:\____Organized____\Languages Agnostics\Design Pattern\Builder Pattern\Builder Pattern\obj\Debug\Builder Pattern.pdb
